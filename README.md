@@ -73,20 +73,40 @@ I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, No
     <img alt="React" src="https://img.shields.io/badge/React-eceff4.svg?&logo=react&logoColor=4995ab">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React%20Native-2e3440.svg?&logo=reactnative&logoColor=0080ff">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/React%20Native-eceff4.svg?&logo=reactnative&logoColor=0080ff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React%20Native-2e3440.svg?&logo=react&logoColor=0080ff">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/React%20Native-eceff4.svg?&logo=react&logoColor=0080ff">
     <img alt="React%20Native" src="https://img.shields.io/badge/React%20Native-eceff4.svg?&logo=reactnative&logoColor=0080ff">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vue-2e3440.svg?&logo=vue&logoColor=white">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Vue-eceff4.svg?&logo=vue&logoColor=black">
-    <img alt="Vue" src="https://img.shields.io/badge/Vue-eceff4.svg?&logo=vue&logoColor=white">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vue-2e3440.svg?&logo=vue.js&logoColor=white">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Vue-eceff4.svg?&logo=vue.js&logoColor=black">
+    <img alt="Vue" src="https://img.shields.io/badge/Vue-eceff4.svg?&logo=vue.js&logoColor=white">
   </picture>
   <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Django-2e3440.svg?&logo=django&logoColor=white">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Django-eceff4.svg?&logo=django&logoColor=black">
     <img alt="Django" src="https://img.shields.io/badge/Django-eceff4.svg?&logo=django&logoColor=white">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/.NET-2e3440.svg?&logo=.net&logoColor=white">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/.NET-eceff4.svg?&logo=.net&logoColor=black">
+    <img alt=".NET" src="https://img.shields.io/badge/.NET-eceff4.svg?&logo=.net&logoColor=white">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Node.js-2e3440.svg?&logo=node.js&logoColor=white">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Node.js-eceff4.svg?&logo=node.js&logoColor=black">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-eceff4.svg?&logo=node.js&logoColor=white">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Express.js-2e3440.svg?&logo=express.js&logoColor=white">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Express.js-eceff4.svg?&logo=express.js&logoColor=black">
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-eceff4.svg?&logo=express.js&logoColor=white">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Laravel-2e3440.svg?&logo=laravel&logoColor=white">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Laravel-eceff4.svg?&logo=laravel&logoColor=black">
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-eceff4.svg?&logo=laravel&logoColor=white">
   </picture>
   <br>
   <picture>
