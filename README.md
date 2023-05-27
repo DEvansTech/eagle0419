@@ -33,7 +33,7 @@ I'm currently a Desktop | Backend developer.
 </p>
 <hr/>
 <details>
-  <summary><b>My Major:</b></summary>
+  <summary><b>My Major :</b></summary>
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-2e3440.svg?&logo=python&logoColor=4382b4">
@@ -72,7 +72,7 @@ I'm currently a Desktop | Backend developer.
   </picture>
 </details>
 <details>
-  <summary><b>Frontend:</b></summary>
+  <summary><b>Full-Stack Development :</b></summary>
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-2e3440.svg?&logo=react&logoColor=4995ab">
@@ -89,9 +89,6 @@ I'm currently a Desktop | Backend developer.
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Vue-eceff4.svg?&logo=vue.js&logoColor=4FC08D">
     <img alt="Vue" src="https://img.shields.io/badge/Vue-eceff4.svg?&logo=vue.js&logoColor=4FC08D">
   </picture>
-</details>
-<details>
-  <summary><b>Backend:</b></summary>
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Django-2e3440.svg?&logo=django&logoColor=092E20">
@@ -118,9 +115,6 @@ I'm currently a Desktop | Backend developer.
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Laravel-eceff4.svg?&logo=laravel&logoColor=FF2D20">
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-eceff4.svg?&logo=laravel&logoColor=FF2D20">
   </picture>
-</details>
-<details>
-  <summary><b>Database:</b></summary>
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-2e3440.svg?&logo=mysql&logoColor=00000F">
@@ -142,9 +136,6 @@ I'm currently a Desktop | Backend developer.
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/MongoDB-eceff4.svg?&logo=mongodb&logoColor=4EA94B">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-eceff4.svg?&logo=mongodb&logoColor=4EA94B">
   </picture>
-</details>
-<details>
-  <summary><b>Hosting:</b></summary>
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-2e3440.svg?&logo=docker&logoColor=2496ED">
@@ -163,13 +154,8 @@ I'm currently a Desktop | Backend developer.
   </picture>
 </details>
 <details>
-  <summary><b>Development Kits</b></summary>
+  <summary><b>Development ToolKits :</b></summary>
   <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Bash-2e3440.svg?&logo=gnubash&logoColor=4EAA25">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Bash-eceff4.svg?&logo=gnubash&logoColor=4EAA25">
-    <img alt="Bash" src="https://img.shields.io/badge/Bash-eceff4.svg?&logo=gnubash&logoColor=4EAA25">
-  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/VS%20Code-2e3440.svg?&logo=visual-studio-code&logoColor=007ACC">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/VS%20Code-eceff4.svg?&logo=visual-studio-code&logoColor=007ACC">
