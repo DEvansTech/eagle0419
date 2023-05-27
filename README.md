@@ -1,6 +1,6 @@
 ### About me
 My name is Joseph Lee.
-I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, Node.js, Express.js.
+I'm currently a Desktop | Backend developer.
 <p align="left">
   <a href="#" target="_blank">
     <picture>
