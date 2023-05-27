@@ -73,15 +73,9 @@ I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, No
     <img alt="React" src="https://img.shields.io/badge/React-eceff4.svg?&logo=react&logoColor=4995ab">
   </picture>
   <picture>
-<<<<<<< HEAD
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React%20Native-2e3440.svg?&logo=react&logoColor=0080ff">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/React%20Native-eceff4.svg?&logo=react&logoColor=0080ff">
     <img alt="React%20Native" src="https://img.shields.io/badge/React%20Native-eceff4.svg?&logo=reactnative&logoColor=0080ff">
-=======
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React%20Native-2e3440.svg?&logo=react-native&logoColor=0080ff">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/React%20Native-eceff4.svg?&logo=react-native&logoColor=0080ff">
-    <img alt="React%20Native" src="https://img.shields.io/badge/React%20Native-eceff4.svg?&logo=react-native&logoColor=0080ff">
->>>>>>> 355545a114496cbbc39afd8ba984a64cddf4542f
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vue-2e3440.svg?&logo=vue.js&logoColor=white">
