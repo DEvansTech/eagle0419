@@ -72,6 +72,25 @@ I'm currently a Desktop | Backend developer.
   </picture>
 </details>
 <details>
+  <summary><b>Desktop Application Development :</b></summary>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Unity-2e3440.svg?&logo=unity&logoColor=white">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Unity-eceff4.svg?&logo=unity&logoColor=white">
+    <img alt="Unity" src="https://img.shields.io/badge/Unity-eceff4.svg?&logo=unity&logoColor=white">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSharp-2e3440.svg?&logo=csharp&logoColor=239120">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/CSharp-eceff4.svg?&logo=csharp&logoColor=239120">
+    <img alt="CSharp" src="https://img.shields.io/badge/CSharp-2e3440.svg?&logo=csharp&logoColor=239120">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C-2e3440.svg?&logo=c&logoColor=00599C">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/C-eceff4.svg?&logo=c&logoColor=00599C">
+    <img alt="C" src="https://img.shields.io/badge/C-2e3440.svg?&logo=c&logoColor=00599C">
+  </picture>
+</details>
+<details>
   <summary><b>Full-Stack Development :</b></summary>
   <br/>
   <picture>
