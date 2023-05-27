@@ -1,6 +1,6 @@
 ### About me
-My name is Polina.
-I'm currently a web full stack dev at [Funexpected](https://funexpectedapps.com/).
+My name is Joseph Lee.
+I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, Node.js, Express.js.
 <p align="left">
   <a href="#" target="_blank">
     <picture>
