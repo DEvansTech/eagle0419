@@ -136,22 +136,6 @@ I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, No
   </picture>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-2e3440.svg?&logo=git&logoColor=f74d27">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Git-eceff4.svg?&logo=git&logoColor=f74d27">
-    <img alt="Git" src="https://img.shields.io/badge/Git-eceff4.svg?&logo=git&logoColor=f74d27">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-2e3440.svg?&logo=github&logoColor=white">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/GitHub-eceff4.svg?&logo=github&logoColor=black">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-eceff4.svg?&logo=github&logoColor=white">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Github%20Actions-2e3440.svg?&logo=github-actions&logoColor=2088FF">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Github%20Actions-eceff4.svg?&logo=github-actions&logoColor=2088FF">
-    <img alt="GithubActions" src="https://img.shields.io/badge/Github%20Actions-eceff4.svg?&logo=github-actions&logoColor=2088FF">
-  </picture>
-  <br>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-2e3440.svg?&logo=docker&logoColor=2496ED">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Docker-eceff4.svg?&logo=docker&logoColor=2496ED">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-eceff4.svg?&logo=docker&logoColor=2496ED">
