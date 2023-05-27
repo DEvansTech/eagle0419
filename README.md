@@ -32,9 +32,8 @@ I'm currently a Desktop | Backend developer.
   </a>&nbsp;
 </p>
 <hr/>
-
 <details>
-  <summary><b>Things I use a lot now</b></summary>
+  <summary><b>My Major:</b></summary>
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-2e3440.svg?&logo=python&logoColor=4382b4">
@@ -69,9 +68,12 @@ I'm currently a Desktop | Backend developer.
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PHP-2e3440.svg?&logo=php&logoColor=777BB4">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/PHP-eceff4.svg?&logo=php&logoColor=777BB4">
-    <img alt="MongoDB" src="https://img.shields.io/badge/PHP-eceff4.svg?&logo=php&logoColor=777BB4">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-eceff4.svg?&logo=php&logoColor=777BB4">
   </picture>
-  <br>
+</details>
+<details>
+  <summary><b>Frontend:</b></summary>
+  <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-2e3440.svg?&logo=react&logoColor=4995ab">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/React-eceff4.svg?&logo=react&logoColor=4995ab">
@@ -87,7 +89,10 @@ I'm currently a Desktop | Backend developer.
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Vue-eceff4.svg?&logo=vue.js&logoColor=4FC08D">
     <img alt="Vue" src="https://img.shields.io/badge/Vue-eceff4.svg?&logo=vue.js&logoColor=4FC08D">
   </picture>
-  <br>
+</details>
+<details>
+  <summary><b>Backend:</b></summary>
+  <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Django-2e3440.svg?&logo=django&logoColor=092E20">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Django-eceff4.svg?&logo=django&logoColor=092E20">
@@ -113,7 +118,10 @@ I'm currently a Desktop | Backend developer.
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Laravel-eceff4.svg?&logo=laravel&logoColor=FF2D20">
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-eceff4.svg?&logo=laravel&logoColor=FF2D20">
   </picture>
-  <br>
+</details>
+<details>
+  <summary><b>Database:</b></summary>
+  <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-2e3440.svg?&logo=mysql&logoColor=00000F">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/MySQL-eceff4.svg?&logo=mysql&logoColor=00000F">
@@ -134,7 +142,10 @@ I'm currently a Desktop | Backend developer.
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/MongoDB-eceff4.svg?&logo=mongodb&logoColor=4EA94B">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-eceff4.svg?&logo=mongodb&logoColor=4EA94B">
   </picture>
-  <br>
+</details>
+<details>
+  <summary><b>Hosting:</b></summary>
+  <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-2e3440.svg?&logo=docker&logoColor=2496ED">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Docker-eceff4.svg?&logo=docker&logoColor=2496ED">
@@ -150,7 +161,10 @@ I'm currently a Desktop | Backend developer.
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Firebase-eceff4.svg?&logo=firebase&logoColor=FFCA28">
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-eceff4.svg?&logo=firebase&logoColor=FFCA28">
   </picture>
-  <br>
+</details>
+<details>
+  <summary><b>Development Kits</b></summary>
+  <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Bash-2e3440.svg?&logo=gnubash&logoColor=4EAA25">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Bash-eceff4.svg?&logo=gnubash&logoColor=4EAA25">
@@ -261,9 +275,3 @@ I'm currently a Desktop | Backend developer.
   <source media="(prefers-color-scheme: light)"srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eagle0419&theme=nord_bright">
   <img alt="Most commit languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eagle0419&theme=nord_dark">
 </picture>
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eagle0419&theme=nord_dark">
-  <source media="(prefers-color-scheme: light)"srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eagle0419&theme=nord_bright">
-  <img alt="My GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eagle0419&theme=nord_dark">
-</picture> -->
