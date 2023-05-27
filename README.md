@@ -85,9 +85,9 @@ I'm currently a Desktop | Backend developer.
     <img alt="Unity" src="https://img.shields.io/badge/Unity-eceff4.svg?&logo=unity&logoColor=white">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C#-2e3440.svg?&logo=csharp&logoColor=239120">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/C#-eceff4.svg?&logo=csharp&logoColor=239120">
-    <img alt="C#" src="https://img.shields.io/badge/C#-2e3440.svg?&logo=csharp&logoColor=239120">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C%23-2e3440.svg?&logo=c-sharp&logoColor=white">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/C%23-eceff4.svg?&logo=c-sharp&logoColor=white">
+    <img alt="C%23" src="https://img.shields.io/badge/C%23-2e3440.svg?&logo=c-sharp&logoColor=white">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C-2e3440.svg?&logo=c&logoColor=00599C">
