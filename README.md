@@ -47,9 +47,9 @@ I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, No
     <img alt="CSharp" src="https://img.shields.io/badge/CSharp-2e3440.svg?&logo=csharp&logoColor=4382b4">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C-2e3440.svg?&logo=c&logoColor=4382b4">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/C-eceff4.svg?&logo=cs&logoColor=4382b4">
-    <img alt="C" src="https://img.shields.io/badge/C-2e3440.svg?&logo=c&logoColor=4382b4">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-2e3440.svg?&logo=c&logoColor=4382b4">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/-eceff4.svg?&logo=cs&logoColor=4382b4">
+    <img alt="C" src="https://img.shields.io/badge/-2e3440.svg?&logo=c&logoColor=4382b4">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-2e3440.svg?&logo=typescript&logoColor=3278c7">
@@ -107,6 +107,27 @@ I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, No
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Laravel-2e3440.svg?&logo=laravel&logoColor=white">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Laravel-eceff4.svg?&logo=laravel&logoColor=black">
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-eceff4.svg?&logo=laravel&logoColor=white">
+  </picture>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-2e3440.svg?&logo=mysql&logoColor=white">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/MySQL-eceff4.svg?&logo=mysql&logoColor=black">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-eceff4.svg?&logo=mysql&logoColor=white">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-2e3440.svg?&logo=postgresql&logoColor=white">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/PostgreSQL-eceff4.svg?&logo=postgresql&logoColor=black">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-eceff4.svg?&logo=postgresql&logoColor=white">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SQLite-2e3440.svg?&logo=sqlite&logoColor=white">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/SQLite-eceff4.svg?&logo=sqlite&logoColor=black">
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-eceff4.svg?&logo=sqlite&logoColor=white">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MongoDB-2e3440.svg?&logo=mongodb&logoColor=white">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/MongoDB-eceff4.svg?&logo=mongodb&logoColor=black">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-eceff4.svg?&logo=mongodb&logoColor=white">
   </picture>
   <br>
   <picture>
