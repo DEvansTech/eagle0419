@@ -67,9 +67,9 @@ I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, No
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2e3440.svg?&logo=javascript&logoColor=F7DF1E">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PHP-2e3440.svg?&logo=php&logoColor=4EA94B">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/PHP-eceff4.svg?&logo=php&logoColor=4EA94B">
-    <img alt="MongoDB" src="https://img.shields.io/badge/PHP-eceff4.svg?&logo=php&logoColor=4EA94B">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PHP-2e3440.svg?&logo=php&logoColor=777BB4">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/PHP-eceff4.svg?&logo=php&logoColor=777BB4">
+    <img alt="MongoDB" src="https://img.shields.io/badge/PHP-eceff4.svg?&logo=php&logoColor=777BB4">
   </picture>
   <br>
   <picture>
@@ -78,9 +78,9 @@ I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, No
     <img alt="React" src="https://img.shields.io/badge/React-eceff4.svg?&logo=react&logoColor=4995ab">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React%20Native-2e3440.svg?&logo=react&logoColor=0080ff">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/React%20Native-eceff4.svg?&logo=react&logoColor=0080ff">
-    <img alt="React%20Native" src="https://img.shields.io/badge/React%20Native-eceff4.svg?&logo=reactnative&logoColor=0080ff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React%20Native-2e3440.svg?&logo=react&logoColor=61DAFB">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/React%20Native-eceff4.svg?&logo=react&logoColor=61DAFB">
+    <img alt="React%20Native" src="https://img.shields.io/badge/React%20Native-eceff4.svg?&logo=reactnative&logoColor=61DAFB">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vue-2e3440.svg?&logo=vue.js&logoColor=4FC08D">
@@ -89,19 +89,19 @@ I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, No
   </picture>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Django-2e3440.svg?&logo=django&logoColor=white">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Django-eceff4.svg?&logo=django&logoColor=black">
-    <img alt="Django" src="https://img.shields.io/badge/Django-eceff4.svg?&logo=django&logoColor=white">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Django-2e3440.svg?&logo=django&logoColor=092E20">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Django-eceff4.svg?&logo=django&logoColor=092E20">
+    <img alt="Django" src="https://img.shields.io/badge/Django-eceff4.svg?&logo=django&logoColor=092E20">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/.NET-2e3440.svg?&logo=.net&logoColor=white">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/.NET-eceff4.svg?&logo=.net&logoColor=black">
-    <img alt=".NET" src="https://img.shields.io/badge/.NET-eceff4.svg?&logo=.net&logoColor=white">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/.NET-2e3440.svg?&logo=.net&logoColor=5C2D91">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/.NET-eceff4.svg?&logo=.net&logoColor=5C2D91">
+    <img alt=".NET" src="https://img.shields.io/badge/.NET-eceff4.svg?&logo=.net&logoColor=5C2D91">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Node.js-2e3440.svg?&logo=node.js&logoColor=white">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Node.js-eceff4.svg?&logo=node.js&logoColor=black">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-eceff4.svg?&logo=node.js&logoColor=white">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Node.js-2e3440.svg?&logo=node.js&logoColor=43853D">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Node.js-eceff4.svg?&logo=node.js&logoColor=43853D">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-eceff4.svg?&logo=node.js&logoColor=43853D">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Express.js-2e3440.svg?&logo=express.js&logoColor=white">
@@ -109,30 +109,30 @@ I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, No
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-eceff4.svg?&logo=express.js&logoColor=white">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Laravel-2e3440.svg?&logo=laravel&logoColor=white">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Laravel-eceff4.svg?&logo=laravel&logoColor=black">
-    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-eceff4.svg?&logo=laravel&logoColor=white">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Laravel-2e3440.svg?&logo=laravel&logoColor=FF2D20">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Laravel-eceff4.svg?&logo=laravel&logoColor=FF2D20">
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-eceff4.svg?&logo=laravel&logoColor=FF2D20">
   </picture>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-2e3440.svg?&logo=mysql&logoColor=white">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/MySQL-eceff4.svg?&logo=mysql&logoColor=black">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-eceff4.svg?&logo=mysql&logoColor=white">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-2e3440.svg?&logo=mysql&logoColor=00000F">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/MySQL-eceff4.svg?&logo=mysql&logoColor=00000F">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-eceff4.svg?&logo=mysql&logoColor=00000F">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-2e3440.svg?&logo=postgresql&logoColor=white">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/PostgreSQL-eceff4.svg?&logo=postgresql&logoColor=black">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-eceff4.svg?&logo=postgresql&logoColor=white">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-2e3440.svg?&logo=postgresql&logoColor=316192">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/PostgreSQL-eceff4.svg?&logo=postgresql&logoColor=316192">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-eceff4.svg?&logo=postgresql&logoColor=316192">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SQLite-2e3440.svg?&logo=sqlite&logoColor=white">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/SQLite-eceff4.svg?&logo=sqlite&logoColor=black">
-    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-eceff4.svg?&logo=sqlite&logoColor=white">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SQLite-2e3440.svg?&logo=sqlite&logoColor=07405E">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/SQLite-eceff4.svg?&logo=sqlite&logoColor=07405E">
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-eceff4.svg?&logo=sqlite&logoColor=07405E">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MongoDB-2e3440.svg?&logo=mongodb&logoColor=white">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/MongoDB-eceff4.svg?&logo=mongodb&logoColor=black">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-eceff4.svg?&logo=mongodb&logoColor=white">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MongoDB-2e3440.svg?&logo=mongodb&logoColor=4EA94B">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/MongoDB-eceff4.svg?&logo=mongodb&logoColor=4EA94B">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-eceff4.svg?&logo=mongodb&logoColor=4EA94B">
   </picture>
   <br>
   <picture>
@@ -178,14 +178,14 @@ I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, No
     <img alt="VSCode" src="https://img.shields.io/badge/VS%20Code-eceff4.svg?&logo=visual-studio-code&logoColor=007ACC">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Visual_Studio-2e3440.svg?&logo=visual%20studio&logoColor=007ACC">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Visual_Studio-eceff4.svg?&logo=visual%20studio&logoColor=007ACC">
-    <img alt="Visual_Studio" src="https://img.shields.io/badge/Visual_Studio-eceff4.svg?&logo=visual%20studio&logoColor=007ACC">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Visual_Studio-2e3440.svg?&logo=visual%20studio&logoColor=5C2D91">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Visual_Studio-eceff4.svg?&logo=visual%20studio&logoColor=5C2D91">
+    <img alt="Visual_Studio" src="https://img.shields.io/badge/Visual_Studio-eceff4.svg?&logo=visual%20studio&logoColor=5C2D91">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Sublime-2e3440.svg?&logo=sublime-text&logoColor=007ACC">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Sublime-eceff4.svg?&logo=sublime-text&logoColor=007ACC">
-    <img alt="Sublime" src="https://img.shields.io/badge/Visual_Studio-eceff4.svg?&logo=sublime-text&logoColor=007ACC">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Sublime-2e3440.svg?&logo=sublime-text&logoColor=important">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Sublime-eceff4.svg?&logo=sublime-text&logoColor=important">
+    <img alt="Sublime" src="https://img.shields.io/badge/Visual_Studio-eceff4.svg?&logo=sublime-text&logoColor=important">
   </picture>
 </details>
 
