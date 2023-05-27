@@ -42,19 +42,29 @@ I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, No
     <img alt="Python" src="https://img.shields.io/badge/Python-2e3440.svg?&logo=python&logoColor=4382b4">
   </picture>
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSharp-2e3440.svg?&logo=csharp&logoColor=4382b4">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/CSharp-eceff4.svg?&logo=csharp&logoColor=4382b4">
+    <img alt="Python" src="https://img.shields.io/badge/CSharp-2e3440.svg?&logo=csharp&logoColor=4382b4">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C-2e3440.svg?&logo=c&logoColor=4382b4">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/C-eceff4.svg?&logo=cs&logoColor=4382b4">
+    <img alt="Python" src="https://img.shields.io/badge/C-2e3440.svg?&logo=c&logoColor=4382b4">
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-2e3440.svg?&logo=typescript&logoColor=3278c7">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/TypeScript-eceff4.svg?&logo=typescript&logoColor=3278c7">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2e3440.svg?&logo=typescript&logoColor=3278c7">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MongoDB-2e3440.svg?&logo=mongodb&logoColor=00ed64">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/MongoDB-eceff4.svg?&logo=mongodb&logoColor=00ed64">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-eceff4.svg?&logo=mongodb&logoColor=00ed64">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-2e3440.svg?&logo=javascript&logoColor=3278c7">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/JavaScript-eceff4.svg?&logo=javascript&logoColor=3278c7">
+    <img alt="TypeScript" src="https://img.shields.io/badge/JavaScript-2e3440.svg?&logo=javascript&logoColor=3278c7">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Poetry-2e3440.svg?&logo=poetry&logoColor=018ce1">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Poetry-eceff4.svg?&logo=poetry&logoColor=018ce1">
-    <img alt="Poetry" src="https://img.shields.io/badge/Poetry-eceff4.svg?&logo=poetry&logoColor=018ce1">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PHP-2e3440.svg?&logo=php&logoColor=00ed64">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/PHP-eceff4.svg?&logo=php&logoColor=00ed64">
+    <img alt="MongoDB" src="https://img.shields.io/badge/PHP-eceff4.svg?&logo=php&logoColor=00ed64">
   </picture>
   <br>
   <picture>
