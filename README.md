@@ -261,71 +261,9 @@ I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, No
     <img alt="Go" src="https://img.shields.io/badge/Go-2e3440.svg?&logo=go&logoColor=007e9d">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Elasticsearch-2e3440.svg?&logo=elasticsearch&logoColor=005571">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Elasticsearch-eceff4.svg?&logo=elasticsearch&logoColor=005571">
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-2e3440.svg?&logo=elasticsearch&logoColor=005571">
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Elasticsearch-2e3440.svg?&logo=elasticsearch&logoColor=FF6F00">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Elasticsearch-eceff4.svg?&logo=elasticsearch&logoColor=FF6F00">
     <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-2e3440.svg?&logo=elasticsearch&logoColor=FF6F00">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kubernetes-2e3440.svg?&logo=kubernetes&logoColor=326CE5">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Kubernetes-eceff4.svg?&logo=kubernetes&logoColor=326CE5">
-    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-2e3440.svg?&logo=kubernetes&logoColor=326CE5">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Terraform-2e3440.svg?&logo=terraform&logoColor=7b42bc">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Terraform-eceff4.svg?&logo=terraform&logoColor=7b42bc">
-    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-2e3440.svg?&logo=terraform&logoColor=7b42bc">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RabbitMQ-2e3440.svg?&logo=rabbitmq&logoColor=ff6701">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/RabbitMQ-eceff4.svg?&logo=rabbitmq&logoColor=ff6701">
-    <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-2e3440.svg?&logo=rabbitmq&logoColor=ff6701">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Apache%20Kafka-2e3440.svg?&logo=apache-kafka&logoColor=white">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Apache%20Kafka-eceff4.svg?&logo=apache-kafka&logoColor=black">
-    <img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-2e3440.svg?&logo=apache-kafka&logoColor=white">
-  </picture>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/WebAssembly-2e3440.svg?&logo=webassembly&logoColor=654FF0">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/WebAssembly-eceff4.svg?&logo=webassembly&logoColor=654FF0">
-    <img alt="WebAssembly" src="https://img.shields.io/badge/WebAssembly-2e3440.svg?&logo=webassembly&logoColor=654FF0">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/gRPC-2e3440.svg?&logo=google&logoColor=4285F4">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/gRPC-eceff4.svg?&logo=google&logoColor=4285F4">
-    <img alt="GRPC" src="https://img.shields.io/badge/gRPC-2e3440.svg?&logo=google&logoColor=4285F4">
-  </picture>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Rust-2e3440.svg?&logo=rust&logoColor=black">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Rust-eceff4.svg?&logo=rust&logoColor=black">
-    <img alt="Rust" src="https://img.shields.io/badge/Rust-2e3440.svg?&logo=rust&logoColor=black">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kotlin-2e3440.svg?&logo=kotlin&logoColor=7F52FF">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Kotlin-eceff4.svg?&logo=kotlin&logoColor=7F52FF">
-    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-2e3440.svg?&logo=kotlin&logoColor=7F52FF">
-  </picture>
-</details>
-
-<details>
-  <summary><b>Some things I also like</b></summary>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Arch%20Linux-2e3440.svg?&logo=archlinux&logoColor=1793d1">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Arch%20Linux-eceff4.svg?&logo=archlinux&logoColor=1793d1">
-    <img alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-2e3440.svg?&logo=archlinux&logoColor=1793d1">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/dwm-2e3440.svg?&logo=dwm&logoColor=1793d1">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/dwm-eceff4.svg?&logo=dwm&logoColor=1793d1">
-    <img alt="Dwm" src="https://img.shields.io/badge/dwm-2e3440.svg?&logo=dwm&logoColor=1793d1">
   </picture>
 </details>
 
