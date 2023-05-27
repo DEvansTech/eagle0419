@@ -198,67 +198,22 @@ I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, No
     <img alt="Flask" src="https://img.shields.io/badge/Flask-2e3440.svg?&logo=flask&logoColor=white">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/FastAPI-2e3440.svg?&logo=fastapi&logoColor=009585">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/FastAPI-eceff4.svg?&logo=fastapi&logoColor=009585">
-    <img alt="FastApi" src="https://img.shields.io/badge/FastAPI-2e3440.svg?&logo=fastapi&logoColor=009585">
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SQLAlchemy-2e3440">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/SQLAlchemy-eceff4">
     <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-2e3440">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pytest-2e3440.svg?&logo=pytest&logoColor=009fe4">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Pytest-eceff4.svg?&logo=pytest&logoColor=009fe4">
-    <img alt="Pytest" src="https://img.shields.io/badge/Pytest-2e3440.svg?&logo=pytest&logoColor=009fe4">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Selenium-2e3440.svg?&logo=selenium&logoColor=green">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Selenium-eceff4.svg?&logo=selenium&logoColor=green">
     <img alt="Selenium" src="https://img.shields.io/badge/Selenium-2e3440.svg?&logo=selenium&logoColor=green">
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Swagger-2e3440.svg?&logo=swagger&logoColor=green">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Swagger-eceff4.svg?&logo=swagger&logoColor=green">
-    <img alt="Swagger" src="https://img.shields.io/badge/Swagger-2e3440.svg?&logo=swagger&logoColor=green">
-  </picture>
   <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Go-2e3440.svg?&logo=go&logoColor=007e9d">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Go-eceff4.svg?&logo=go&logoColor=007e9d">
-    <img alt="Go" src="https://img.shields.io/badge/Go-2e3440.svg?&logo=go&logoColor=007e9d">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Postgres-2e3440.svg?&logo=postgresql&logoColor=white">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Postgres-eceff4.svg?&logo=postgresql&logoColor=black">
-    <img alt="Postgres" src="https://img.shields.io/badge/Postgres-2e3440.svg?&logo=postgresql&logoColor=white">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SQLite-2e3440.svg?&logo=sqlite&logoColor=white">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/SQLite-eceff4.svg?&logo=sqlite&logoColor=black">
-    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-2e3440.svg?&logo=sqlite&logoColor=white">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Elasticsearch-2e3440.svg?&logo=elasticsearch&logoColor=005571">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Elasticsearch-eceff4.svg?&logo=elasticsearch&logoColor=005571">
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-2e3440.svg?&logo=elasticsearch&logoColor=005571">
-  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Redis-2e3440.svg?&logo=redis&logoColor=DC382D">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Redis-eceff4.svg?&logo=redis&logoColor=DC382D">
     <img alt="Redis" src="https://img.shields.io/badge/Redis-2e3440.svg?&logo=redis&logoColor=DC382D">
   </picture>
   <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vim-2e3440.svg?&logo=vim&logoColor=019733">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Vim-eceff4.svg?&logo=vim&logoColor=019733">
-    <img alt="Vim" src="https://img.shields.io/badge/Vim-2e3440.svg?&logo=vim&logoColor=019733">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-2e3440.svg?&logo=c&logoColor=A8B9CC">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/-eceff4.svg?&logo=c&logoColor=00599C">
-    <img alt="C" src="https://img.shields.io/badge/-2e3440.svg?&logo=c&logoColor=A8B9CC">
-  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C++-2e3440.svg?&logo=c%2B%2B&logoColor=00599C">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/C++-eceff4.svg?&logo=c%2B%2B&logoColor=00599C">
@@ -284,11 +239,6 @@ I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, No
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pandas-2e3440.svg?&logo=pandas&logoColor=white">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Pandas-eceff4.svg?&logo=pandas&logoColor=black">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2e3440.svg?&logo=pandas&logoColor=white">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Plotly-2e3440.svg?&logo=plotly&logoColor=3f4f75">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Plotly-eceff4.svg?&logo=plotly&logoColor=3f4f75">
-    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-2e3440.svg?&logo=plotly&logoColor=3f4f75">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NumPy-2e3440.svg?&logo=numpy&logoColor=4eaccf">
