@@ -42,14 +42,19 @@ I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, No
     <img alt="Python" src="https://img.shields.io/badge/Python-2e3440.svg?&logo=python&logoColor=4382b4">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSharp-2e3440.svg?&logo=csharp&logoColor=4382b4">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/CSharp-eceff4.svg?&logo=csharp&logoColor=4382b4">
-    <img alt="CSharp" src="https://img.shields.io/badge/CSharp-2e3440.svg?&logo=csharp&logoColor=4382b4">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSharp-2e3440.svg?&logo=csharp&logoColor=239120">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/CSharp-eceff4.svg?&logo=csharp&logoColor=239120">
+    <img alt="CSharp" src="https://img.shields.io/badge/CSharp-2e3440.svg?&logo=csharp&logoColor=239120">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-2e3440.svg?&logo=c&logoColor=4382b4">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/-eceff4.svg?&logo=cs&logoColor=4382b4">
-    <img alt="C" src="https://img.shields.io/badge/-2e3440.svg?&logo=c&logoColor=4382b4">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C-2e3440.svg?&logo=c&logoColor=00599C">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/C-eceff4.svg?&logo=c&logoColor=00599C">
+    <img alt="C" src="https://img.shields.io/badge/C-2e3440.svg?&logo=c&logoColor=00599C">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C++-2e3440.svg?&logo=c%2B%2B&logoColor=00599C">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/C++-eceff4.svg?&logo=c%2B%2Bs&logoColor=00599C">
+    <img alt="C++" src="https://img.shields.io/badge/C++-2e3440.svg?&logo=c%2B%2B&logoColor=00599C">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-2e3440.svg?&logo=typescript&logoColor=3278c7">
@@ -57,14 +62,14 @@ I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, No
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2e3440.svg?&logo=typescript&logoColor=3278c7">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-2e3440.svg?&logo=javascript&logoColor=3278c7">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/JavaScript-eceff4.svg?&logo=javascript&logoColor=3278c7">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2e3440.svg?&logo=javascript&logoColor=3278c7">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-2e3440.svg?&logo=javascript&logoColor=F7DF1E">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/JavaScript-eceff4.svg?&logo=javascript&logoColor=F7DF1E">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2e3440.svg?&logo=javascript&logoColor=F7DF1E">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PHP-2e3440.svg?&logo=php&logoColor=00ed64">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/PHP-eceff4.svg?&logo=php&logoColor=00ed64">
-    <img alt="MongoDB" src="https://img.shields.io/badge/PHP-eceff4.svg?&logo=php&logoColor=00ed64">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PHP-2e3440.svg?&logo=php&logoColor=4EA94B">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/PHP-eceff4.svg?&logo=php&logoColor=4EA94B">
+    <img alt="MongoDB" src="https://img.shields.io/badge/PHP-eceff4.svg?&logo=php&logoColor=4EA94B">
   </picture>
   <br>
   <picture>
@@ -78,9 +83,9 @@ I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, No
     <img alt="React%20Native" src="https://img.shields.io/badge/React%20Native-eceff4.svg?&logo=reactnative&logoColor=0080ff">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vue-2e3440.svg?&logo=vue.js&logoColor=white">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Vue-eceff4.svg?&logo=vue.js&logoColor=black">
-    <img alt="Vue" src="https://img.shields.io/badge/Vue-eceff4.svg?&logo=vue.js&logoColor=white">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vue-2e3440.svg?&logo=vue.js&logoColor=4FC08D">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Vue-eceff4.svg?&logo=vue.js&logoColor=4FC08D">
+    <img alt="Vue" src="https://img.shields.io/badge/Vue-eceff4.svg?&logo=vue.js&logoColor=4FC08D">
   </picture>
   <br>
   <picture>
@@ -185,7 +190,7 @@ I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, No
 </details>
 
 <details>
-  <summary><b>Things I have some expirience in and used in the past</b></summary>
+  <summary><b>Things I have some experience in and used in the past</b></summary>
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Flask-2e3440.svg?&logo=flask&logoColor=white">
@@ -300,6 +305,21 @@ I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, No
 <details>
   <summary><b>Things I'm interested in</b></summary>
   <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Go-2e3440.svg?&logo=go&logoColor=007e9d">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Go-eceff4.svg?&logo=go&logoColor=007e9d">
+    <img alt="Go" src="https://img.shields.io/badge/Go-2e3440.svg?&logo=go&logoColor=007e9d">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Elasticsearch-2e3440.svg?&logo=elasticsearch&logoColor=005571">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Elasticsearch-eceff4.svg?&logo=elasticsearch&logoColor=005571">
+    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-2e3440.svg?&logo=elasticsearch&logoColor=005571">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Elasticsearch-2e3440.svg?&logo=elasticsearch&logoColor=FF6F00">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Elasticsearch-eceff4.svg?&logo=elasticsearch&logoColor=FF6F00">
+    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-2e3440.svg?&logo=elasticsearch&logoColor=FF6F00">
+  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kubernetes-2e3440.svg?&logo=kubernetes&logoColor=326CE5">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Kubernetes-eceff4.svg?&logo=kubernetes&logoColor=326CE5">
