@@ -267,23 +267,19 @@ I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, No
   </picture>
 </details>
 
-<details>
-  <summary><b>Languages stats</b></summary>
-  <br/>
-  <picture align="left">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rabarbra&theme=nord_dark">
-    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rabarbra&theme=nord_bright">
-    <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rabarbra&theme=nord_dark">
-  </picture>
-  <picture align="right">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rabarbra&theme=nord_dark">
-    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rabarbra&theme=nord_bright">
-    <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rabarbra&theme=nord_dark">
-  </picture>
-</details>
+<picture align="left">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rabarbra&theme=nord_dark">
+  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rabarbra&theme=nord_bright">
+  <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rabarbra&theme=nord_dark">
+</picture>
+<picture align="right">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rabarbra&theme=nord_dark">
+  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rabarbra&theme=nord_bright">
+  <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rabarbra&theme=nord_dark">
+</picture>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eagle0419&theme=nord_dark">
   <source media="(prefers-color-scheme: light)"srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eagle0419&theme=nord_bright">
   <img alt="My GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eagle0419&theme=nord_dark">
-</picture>
+</picture> -->
