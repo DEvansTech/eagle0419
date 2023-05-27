@@ -44,12 +44,12 @@ I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, No
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSharp-2e3440.svg?&logo=csharp&logoColor=4382b4">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/CSharp-eceff4.svg?&logo=csharp&logoColor=4382b4">
-    <img alt="Python" src="https://img.shields.io/badge/CSharp-2e3440.svg?&logo=csharp&logoColor=4382b4">
+    <img alt="CSharp" src="https://img.shields.io/badge/CSharp-2e3440.svg?&logo=csharp&logoColor=4382b4">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C-2e3440.svg?&logo=c&logoColor=4382b4">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/C-eceff4.svg?&logo=cs&logoColor=4382b4">
-    <img alt="Python" src="https://img.shields.io/badge/C-2e3440.svg?&logo=c&logoColor=4382b4">
+    <img alt="C" src="https://img.shields.io/badge/C-2e3440.svg?&logo=c&logoColor=4382b4">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-2e3440.svg?&logo=typescript&logoColor=3278c7">
@@ -59,7 +59,7 @@ I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, No
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-2e3440.svg?&logo=javascript&logoColor=3278c7">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/JavaScript-eceff4.svg?&logo=javascript&logoColor=3278c7">
-    <img alt="TypeScript" src="https://img.shields.io/badge/JavaScript-2e3440.svg?&logo=javascript&logoColor=3278c7">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2e3440.svg?&logo=javascript&logoColor=3278c7">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PHP-2e3440.svg?&logo=php&logoColor=00ed64">
@@ -73,24 +73,20 @@ I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, No
     <img alt="React" src="https://img.shields.io/badge/React-eceff4.svg?&logo=react&logoColor=4995ab">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MUI-2e3440.svg?&logo=mui&logoColor=0080ff">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/MUI-eceff4.svg?&logo=mui&logoColor=0080ff">
-    <img alt="MUI" src="https://img.shields.io/badge/MUI-eceff4.svg?&logo=mui&logoColor=0080ff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React%20Native-2e3440.svg?&logo=reactnative&logoColor=0080ff">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/React%20Native-eceff4.svg?&logo=reactnative&logoColor=0080ff">
+    <img alt="React%20Native" src="https://img.shields.io/badge/React%20Native-eceff4.svg?&logo=reactnative&logoColor=0080ff">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Create%20React%20App-2e3440.svg?&logo=createreactapp&logoColor=09d3ad">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Create%20React%20App-eceff4.svg?&logo=createreactapp&logoColor=09d3ad">
-    <img alt="Create React App" src="https://img.shields.io/badge/Create%20React%20App-eceff4.svg?&logo=createreactapp&logoColor=09d3ad">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vue-2e3440.svg?&logo=vue&logoColor=white">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Vue-eceff4.svg?&logo=vue&logoColor=black">
+    <img alt="Vue" src="https://img.shields.io/badge/Vue-eceff4.svg?&logo=vue&logoColor=white">
   </picture>
+  <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React%20Query-2e3440.svg?&logo=reactquery&logoColor=ff4154">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/React%20Query-eceff4.svg?&logo=reactquery&logoColor=ff4154">
-    <img alt="ReactQuery" src="https://img.shields.io/badge/React%20Query-eceff4.svg?&logo=reactquery&logoColor=ff4154">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React%20Router-2e3440.svg?&logo=reactrouter&logoColor=white">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/React%20Router-eceff4.svg?&logo=reactrouter&logoColor=black">
-    <img alt="ReactRouter" src="https://img.shields.io/badge/React%20Router-eceff4.svg?&logo=reactrouter&logoColor=white">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Django-2e3440.svg?&logo=django&logoColor=white">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Django-eceff4.svg?&logo=django&logoColor=black">
+    <img alt="Django" src="https://img.shields.io/badge/Django-eceff4.svg?&logo=django&logoColor=white">
   </picture>
   <br>
   <picture>
