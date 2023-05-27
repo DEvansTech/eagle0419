@@ -147,20 +147,20 @@ I'm currently a Desktop | Backend developer with Python, C#, C++, Javascript, No
     <img alt="Bash" src="https://img.shields.io/badge/Bash-eceff4.svg?&logo=gnubash&logoColor=4EAA25">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NodeJS-2e3440.svg?&logo=node.js&logoColor=339933">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/NodeJS-eceff4.svg?&logo=node.js&logoColor=339933">
-    <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-eceff4.svg?&logo=node.js&logoColor=339933">
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/VS%20Code-2e3440.svg?&logo=visual-studio-code&logoColor=007ACC">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/VS%20Code-eceff4.svg?&logo=visual-studio-code&logoColor=007ACC">
     <img alt="VSCode" src="https://img.shields.io/badge/VS%20Code-eceff4.svg?&logo=visual-studio-code&logoColor=007ACC">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Insomnia-2e3440.svg?&logo=insomnia&logoColor=5e01d4">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Insomnia-eceff4.svg?&logo=insomnia&logoColor=5e01d4">
-    <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-eceff4.svg?&logo=insomnia&logoColor=5e01d4">
-  </picture>  
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Visual_Studio-2e3440.svg?&logo=visual%20studio&logoColor=007ACC">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Visual_Studio-eceff4.svg?&logo=visual%20studio&logoColor=007ACC">
+    <img alt="Visual_Studio" src="https://img.shields.io/badge/Visual_Studio-eceff4.svg?&logo=visual%20studio&logoColor=007ACC">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Sublime-2e3440.svg?&logo=sublime-text&logoColor=007ACC">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Sublime-eceff4.svg?&logo=sublime-text&logoColor=007ACC">
+    <img alt="Sublime" src="https://img.shields.io/badge/Visual_Studio-eceff4.svg?&logo=sublime-text&logoColor=007ACC">
+  </picture>
 </details>
 
 <details>
