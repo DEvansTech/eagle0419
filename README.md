@@ -193,7 +193,13 @@ I'm currently a Desktop | Backend developer.
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Sublime-2e3440.svg?&logo=sublime-text&logoColor=important">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Sublime-eceff4.svg?&logo=sublime-text&logoColor=important">
-    <img alt="Sublime" src="https://img.shields.io/badge/Visual_Studio-eceff4.svg?&logo=sublime-text&logoColor=important">
+    <img alt="Sublime" src="https://img.shields.io/badge/Sublime-eceff4.svg?&logo=sublime-text&logoColor=important">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Android_Studio-2e3440.svg?&logo=sublime-text&logoColor=3DDC84">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Android_Studio-eceff4.svg?&logo=sublime-text&logoColor=3DDC84">
+    <img alt="Android_Studio" src="https://img.shields.io/badge/Android_Studio-eceff4.svg?&logo=sublime-text&logoColor=3DDC84">
   </picture>
 </details>
 
