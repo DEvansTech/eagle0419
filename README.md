@@ -1,5 +1,5 @@
 ### About me
-My name is Joseph Lee.
+My name is Daniel.
 I'm currently a Desktop | Backend developer.
 <p align="left">
   <a href="#" target="_blank">
