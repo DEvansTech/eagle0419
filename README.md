@@ -1,5 +1,5 @@
 ### About me
-My name is Daniel.
+My name is Alex.
 I'm currently a Desktop | Backend developer.
 <p align="left">
   <a href="#" target="_blank">
