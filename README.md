@@ -1,6 +1,5 @@
 ### About me
 Hi, there👋.
-I'm a senior full-stack developer(web3 exp) with 8+ years of experience.
 <p align="left">
   <a href="#" target="_blank">
     <picture>
