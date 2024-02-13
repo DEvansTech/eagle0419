@@ -1,7 +1,7 @@
 ### About me
 Hi, there👋.
 <p align="left">
-  <a href="#" target="_blank">
+  <a href="https://t.me/SoftwareGuruOK" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/telegram-2e3440.svg?&style=for-the-badge&logo=telegram">
       <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/telegram-eceff4.svg?&style=for-the-badge&logo=telegram">
@@ -13,20 +13,6 @@ Hi, there👋.
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/gmail-2e3440.svg?&style=for-the-badge&logo=gmail&logoColor=D14836">
       <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/gmail-eceff4.svg?&style=for-the-badge&logo=gmail&logoColor=D14836">
       <img alt="Gmail" src="https://img.shields.io/badge/gmail-eceff4.svg?&style=for-the-badge&logo=gmail&logoColor=D14836">
-    </picture>
-  </a>&nbsp;
-  <a href="#" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/linkedin-2e3440.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2">
-      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/linkedin-eceff4.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2">
-      <img alt="LindedIn" src="https://img.shields.io/badge/linkedin-eceff4.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2">
-    </picture>
-  </a>&nbsp;
-  <a href="https://www.hackerrank.com/wizard_man0308?hr_r=1" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HackerRank-2e3440.svg?&style=for-the-badge&logo=hackerrank&logoColor=2fc966">
-      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/HackerRank-eceff4.svg?&style=for-the-badge&logo=hackerrank&logoColor=2fc966">
-      <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-eceff4.svg?&style=for-the-badge&logo=hackerrank&logoColor=2fc966">
     </picture>
   </a>&nbsp;
 </p>
