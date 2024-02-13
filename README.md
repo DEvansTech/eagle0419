@@ -1,5 +1,6 @@
 ### About me
-I'm currently a Desktop | Backend developer.
+Hi, there👋.
+I'm a senior full-stack developer(web3 exp) with 8+ years of experience.
 <p align="left">
   <a href="#" target="_blank">
     <picture>
@@ -8,7 +9,7 @@ I'm currently a Desktop | Backend developer.
       <img alt="Telegram" src="https://img.shields.io/badge/telegram-eceff4.svg?&style=for-the-badge&logo=telegram">
     </picture>
   </a>&nbsp;
-  <a href="mailto:wizard.man0308@gmail.com">
+  <a href="mailto:zackhartson.tech@gmail.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/gmail-2e3440.svg?&style=for-the-badge&logo=gmail&logoColor=D14836">
       <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/gmail-eceff4.svg?&style=for-the-badge&logo=gmail&logoColor=D14836">
